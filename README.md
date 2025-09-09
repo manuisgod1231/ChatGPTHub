@@ -5,6 +5,6 @@ Game Link : ``` https://www.roblox.com/games/124398083342642/NEW-Ride-A-Cart-Dow
 
 ```lua
 --script ↓
-loadstring(game:HttpGet("https://raw.githubusercontent.com/manuisgod1231/scriptgui/main/script/Ride%20A%20Cart%20Down%20A%20Slide"))()
+loadstring(game:HttpGet("https://github.com/manuisgod1231/scriptgui/blob/main/script/Ride%20A%20Cart%20Down%20A%20Slide.lua"))()
 ```
 We will Add other game soon.
